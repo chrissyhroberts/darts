@@ -4,7 +4,9 @@ Current version: v0.5.3
 
 A simple offline Android darts scoring app built with Kotlin and Jetpack Compose.
 
-Current internal version: **v0.5.1**
+Current internal version: **v0.5.1**  
+
+<img width="307" height="683" alt="darts" src="https://github.com/user-attachments/assets/e73c3ba7-bc64-447b-ae8a-39f2c8e8ca81" />
 
 ## Current features
 
